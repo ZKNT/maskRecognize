@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\image",
+    "\\logs",
+    "\\model_data",
+    "\\net"
+  ],
+  "SelectedNode": "\\mask_recognize.py",
+  "PreviewInSolutionExplorer": false
+}
